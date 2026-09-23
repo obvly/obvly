@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/obvly/obvly/main/assets/banner.svg" alt="Ilya — Java Backend Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/obvly/obvly/81bf1f2/assets/banner.svg" alt="Ilya — Java Backend Developer" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Ilya</h1>
