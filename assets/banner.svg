@@ -1,1 +1,11 @@
-
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="360" rx="24" fill="#0D1117"/>
+  <path d="M0 300C170 228 273 346 474 269C685 188 750 84 942 131C1089 168 1178 105 1280 50V360H0V300Z" fill="#161B22"/>
+  <circle cx="1105" cy="95" r="118" fill="#238636" fill-opacity="0.16"/>
+  <circle cx="1105" cy="95" r="68" fill="#2EA043" fill-opacity="0.2"/>
+  <rect x="80" y="86" width="74" height="74" rx="18" fill="#238636"/>
+  <path d="M103 121H132M103 133H125M103 145H118" stroke="white" stroke-width="7" stroke-linecap="round"/>
+  <text x="80" y="222" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="51" font-weight="700">Ilya · Java Backend Developer</text>
+  <text x="82" y="267" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="25">Spring Boot · REST APIs · Building PayFlow</text>
+  <rect x="82" y="295" width="160" height="6" rx="3" fill="#2EA043"/>
+</svg>
