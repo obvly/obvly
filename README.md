@@ -1,39 +1,42 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/obvly/obvly/main/github-profile-banner.png" alt="Ilya — Java Backend Developer" width="100%" />
-</p>
+# Hi, I'm Ilya 👋
 
-<h1 align="center">Hi, I'm Ilya</h1>
-<p align="center"><strong>Java developer · Backend development · Poland</strong></p>
-<p align="center">Learning by building, from Java fundamentals to Spring Boot applications.</p>
+Java backend developer building practical Spring Boot projects and learning by shipping them.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17" />
-  <img src="https://img.shields.io/badge/Spring_Boot-3.3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+I enjoy turning a backend idea into a small working system: model the domain, expose a REST API, persist data, write tests, and run it locally with Docker.
 
----
+## Featured project
 
-### Next up: PayFlow
+### [PayFlowLearning](https://github.com/obvly/PayFlowLearning)
 
-A payment processing pet project, currently in planning. My goal is to explore how backend systems handle payment lifecycles, repeated requests, and asynchronous events.
+A payment lifecycle simulator built with Java 21 and Spring Boot.
 
-| First milestone | Later milestones |
-| --- | --- |
-| Java 21 & Spring Boot | Idempotent payment requests |
-| PostgreSQL & Liquibase | Redis caching |
-| REST API & validation | Kafka events & audit service |
-| Docker Compose | Integration tests & CI |
+- REST API for creating and querying payments
+- explicit payment state machine: pending → processing → completed / failed / cancelled / refunded
+- idempotency checks for repeated requests
+- PostgreSQL and Liquibase migrations
+- Redis cache and Kafka events
+- separate audit service
+- Docker Compose, Testcontainers, GitHub Actions and smoke tests
 
-### My current toolkit
+This is a learning project. It does not process real payments or connect to a bank.
 
-`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `MapStruct` `Maven` `Git`
+## Current stack
 
-### Learning & practice
+Java 21 · Spring Boot · Spring MVC · Spring Data JPA · Hibernate · PostgreSQL · Liquibase · Redis · Kafka · Docker · JUnit 5 · Mockito · Maven · Git
 
-I'm developing my backend skills through Mate Academy coursework and personal projects. My repositories trace that progress: Java fundamentals, collections, persistence, and REST APIs.
+## Other projects
 
-- [Spring Boot project](https://github.com/obvly/springboot-web) — book catalog API coursework; work in progress.
-- [Java practice](https://github.com/obvly?tab=repositories) — exercises and learning projects.
+- [springboot-web](https://github.com/obvly/springboot-web) — online book store API with Spring Boot, MapStruct and Spring Data JPA.
+- [hibernate-liquibase](https://github.com/obvly/hibernate-liquibase) — practice project for persistence and database migrations.
+- [jv-fruit-shop-tests](https://github.com/obvly/jv-fruit-shop-tests) — Java testing practice.
+
+## What I'm learning now
+
+- writing clearer service and domain code
+- integration testing with real infrastructure
+- event-driven communication and reliable message delivery
+- designing APIs that are easy to use and validate
+
+I'm building these projects as part of my backend development journey and improving them step by step.
+
+📫 [obvly@icloud.com](mailto:obvly@icloud.com)
