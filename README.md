@@ -1,6 +1,6 @@
 # Hi, I'm Ilya 👋
 
-Java backend developer building practical Spring Boot projects and learning by shipping them.
+Java backend developer who has built practical Spring Boot projects and keeps improving them.
 
 I enjoy turning a backend idea into a small working system: model the domain, expose a REST API, persist data, write tests, and run it locally with Docker.
 
@@ -8,7 +8,7 @@ I enjoy turning a backend idea into a small working system: model the domain, ex
 
 ### [PayFlowLearning](https://github.com/obvly/PayFlowLearning)
 
-A payment lifecycle simulator built with Java 21 and Spring Boot.
+A completed Java 21 / Spring Boot learning project that simulates a payment lifecycle.
 
 - REST API for creating and querying payments
 - explicit payment state machine: pending → processing → completed / failed / cancelled / refunded
@@ -37,6 +37,4 @@ Java 21 · Spring Boot · Spring MVC · Spring Data JPA · Hibernate · PostgreS
 - event-driven communication and reliable message delivery
 - designing APIs that are easy to use and validate
 
-I'm building these projects as part of my backend development journey and improving them step by step.
-
-📫 [obvly@icloud.com](mailto:obvly@icloud.com)
+These projects are part of my backend development journey, and I improve them step by step. 📫 [obvly@icloud.com](mailto:obvly@icloud.com)
